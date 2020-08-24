@@ -1,2 +1,1 @@
-# shb
-Social habit builder
+# Social habit builder
